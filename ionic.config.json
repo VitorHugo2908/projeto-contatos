@@ -1,0 +1,7 @@
+{
+  "name": "projeto-contatos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
